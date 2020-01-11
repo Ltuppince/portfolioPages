@@ -1,0 +1,53 @@
+body{
+    color: white;
+    background-color:black;
+    
+
+}
+#homePageWelcome{
+    size: 60px;
+}
+#subHeader{
+    text-align: center;
+    /* width: 900px; */
+}
+.nav-wrapper{
+background-color:blue;
+}
+.containerImg{
+    width: 100%;
+    height: 60%;
+}
+#contactForm-container{
+    width: 800px;
+}
+#first_name{
+    color: white;
+    
+}
+#last_name{
+    color: white;
+}
+#email{
+    color: white;
+}
+#textarea2{
+    color: white;
+}
+#aboutMeParagraph{
+    padding: 20px;
+    line-height: 30px;
+}
+#icon_telephone{
+    color: white;
+}
+#icon_prefix{
+    color: white;
+}
+
+@media only screen and (max-width: 500px) {
+    .brand-logo {
+        font-size: 21px !important;
+    }
+
+}
