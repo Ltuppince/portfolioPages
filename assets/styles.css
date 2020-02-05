@@ -44,6 +44,12 @@ background-color:blue;
 #icon_prefix{
     color: white;
 }
+.formContainer{
+    width: 800px;
+    line-height: 20px;
+}
+
+
 
 @media only screen and (max-width: 500px) {
     .brand-logo {
