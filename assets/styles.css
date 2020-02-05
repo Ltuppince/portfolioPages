@@ -48,7 +48,9 @@ background-color:blue;
     width: 800px;
     line-height: 20px;
 }
-
+#cardInfo {
+    color: black;
+}
 
 
 @media only screen and (max-width: 500px) {
